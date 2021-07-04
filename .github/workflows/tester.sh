@@ -1,7 +1,10 @@
 #!/bin/bash
 
 function t () {
-  ./$1
+   echo "[ JOB ] $1"
+   sudo chmod +x ./$1
+   ./$1
+   echo "[ FIN ] $1"
 }
 
 t 'cleaner/slab_caches'
