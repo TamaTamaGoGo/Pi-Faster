@@ -35,6 +35,8 @@ excluded_files:
 # Any typos we should ignore?
 excluded_words:
   - typoci
+  - dropc
+  - cpulimit
 
 # Would you like filenames to also be spellchecked?
 spellcheck_filenames: true
