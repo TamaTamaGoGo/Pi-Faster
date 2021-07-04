@@ -1,5 +1,3 @@
 #!/bin/bash
 
-sudo su -c “rm -rf /temp/*”
-
-exit 0
+sudo su -c "rm -rf /temp/*"
