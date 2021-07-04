@@ -1,0 +1,11 @@
+#!/bin/bash
+
+function dropc {
+  sudo su -c “sync; echo $1 > /proc/sys/vm/drop_caches”
+}
+
+dropc 1
+dropc 2
+dropc 3
+
+exit 0
