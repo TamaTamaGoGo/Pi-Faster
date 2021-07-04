@@ -1,6 +1,6 @@
 #!/bin/bash
 
-function t{
+function t () {
   ./$1
 }
 
