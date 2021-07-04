@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# Usage 
+# ./cpulimit_pid pid limit
+#
+
+
+# sudo cpulimit -p プロセス番号 -l 0から100までの数値
+sudo cpulimit -p $1 -l $2
