@@ -1,3 +1,3 @@
 # Pi-Faster
 
-## This is Canary 
+## This is Canary Version!
