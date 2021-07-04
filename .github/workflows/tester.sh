@@ -9,3 +9,4 @@ function t () {
 
 t 'cleaner/slab_caches'
 t 'cleaner/temp_folder'
+t 'install/cpulimit'
