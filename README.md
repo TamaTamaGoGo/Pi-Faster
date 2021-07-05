@@ -1,8 +1,10 @@
 # Pi-Faster
 
 ## This is Canary Version!
-Canary version is the version what the most branch I edit.
+Everyday update!
 
-So many changes, but it might 'cause bags.
+Canary version is the most branch I edit.
 
-Please teach me bugs to help developing!
+So many changes, but it might 'cause bugs.
+
+**Please teach me bugs to help developing!**
