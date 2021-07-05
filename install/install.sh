@@ -10,6 +10,6 @@ fi
 
 # Some CPU tools use cpulimit.
 # Install ‘cpulimit’ if it’s not installed.
-if [ -v $(which yad) ]
-  sudo apt install -y yad
+if [ -v $(which cpulimit) ]
+  sudo apt install -y cpulimit
 fi
